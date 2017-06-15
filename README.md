@@ -8,7 +8,7 @@ You should aim to answer the following questions:
 - How do you use it in a rails app?
 
 
-#### Pick a topic
+## Pick a topic
 **Please sign up for your topic in the project submission Google doc, and don't repeat a topic someone has already chosen.**
 
 Languages:
@@ -19,7 +19,7 @@ Languages:
 > You are welcome to suggest your own topics!
 
 
-#### Write up a short gist
+## Write up a short gist
 
 Try a tutorial. Code up a demo. Experiment. Then write about what you discovered.
 
@@ -29,7 +29,7 @@ Please [use markdown](https://guides.github.com/features/mastering-markdown/), a
 
 And remember: **Show Us The Code**!
 
-#### Get ready to present
+## Get ready to present
 
 You will have 5 minutes to introduce us to your chosen library, walk us through some code, and answer questions. Please keep it short and sweet.
 
