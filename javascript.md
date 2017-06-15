@@ -22,3 +22,5 @@ NPM is a great resource for finding packages: [Node Package Manager](https://www
 - **Email Sending**: Sendmail | Mailgun
 - **Built In / Newly Supported Features**: localStorage | pushState | serviceWorkers | WebAudio | WebRTC | WebComponents
 - **Benchmarking**: benchmark.js
+- **jQuery plugins**: Autocomplete, jQueryUI, Draggable, Droppable, Resizable, Selectable, Sortable
+
