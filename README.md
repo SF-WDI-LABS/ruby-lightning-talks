@@ -33,4 +33,6 @@ And remember: **Show Us The Code**!
 
 You will have 5 minutes to introduce us to your chosen library, walk us through some code, and answer questions. Please keep it short and sweet.
 
-We look forward to hearing your war stories. You may have a lot of false starts. You may not be able to get your demo to work. Welcome to being a developer.
+We look forward to hearing your war stories. You may have a lot of false starts. You may not be able to get your demo to work. Share that experience.
+
+> DO NOT PANIC AND CHANGE TOPICS.
