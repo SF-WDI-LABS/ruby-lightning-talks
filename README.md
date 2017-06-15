@@ -7,11 +7,30 @@ You should aim to answer the following questions:
 - What problem does the gem solve?
 - How do you use it in a rails app?
 
-For inspiration on your gist, see [this example](gist.md). Please [use markdown](https://guides.github.com/features/mastering-markdown/), and make sure your codeblocks are correctly formatted and syntax highlight-ed.
 
-#### Languages
-* [Ruby Gem Lightning Talks](ruby.md)
-* [Javascript/Node Package Lightning Talk](javascript.md)
-
-#### Signup for a Topic
+#### Pick a topic
 **Please sign up for your topic in the project submission Google doc, and don't repeat a topic someone has already chosen.**
+
+Languages:
+
+* [Ruby Gem Lightning Talk Topics](ruby.md)
+* [Javascript/Node Package Lightning Talk Topics](javascript.md)
+
+> You are welcome to suggest your own topics!
+
+
+#### Write up a short gist
+
+Try a tutorial. Code up a demo. Experiment. Then write about what you discovered.
+
+For inspiration on your gist, see [this example](gist.md).
+
+Please [use markdown](https://guides.github.com/features/mastering-markdown/), and make sure your codeblocks are correctly formatted and syntax highlight-ed.
+
+And remember: **Show Us The Code**!
+
+#### Get ready to present
+
+You will have 5 minutes to introduce us to your chosen library, walk us through some code, and answer questions. Please keep it short and sweet.
+
+We look forward to hearing your war stories. You may have a lot of false starts. You may not be able to get your demo to work. Welcome to being a developer.
