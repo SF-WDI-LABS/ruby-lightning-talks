@@ -11,10 +11,10 @@ You should aim to answer the following questions:
 ## Pick a topic
 **Please sign up for your topic in the project submission Google doc, and don't repeat a topic someone has already chosen.**
 
-Languages:
+Topics by Language:
 
-* [Ruby Gem Lightning Talk Topics](ruby.md)
-* [Javascript/Node Package Lightning Talk Topics](javascript.md)
+* [Ruby Topics](ruby.md)
+* [Javascript Topics](javascript.md)
 
 > You are welcome to suggest your own topics!
 
