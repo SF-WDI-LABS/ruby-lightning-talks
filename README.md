@@ -25,7 +25,7 @@ Try a tutorial. Code up a demo. Experiment. Then write about what you discovered
 
 For inspiration on your gist, see [this example](gist.md).
 
-Please [use markdown](https://guides.github.com/features/mastering-markdown/), and make sure your codeblocks are correctly formatted and syntax highlight-ed.
+Please [use markdown](https://guides.github.com/features/mastering-markdown/) with the `.md` extension, and make sure your codeblocks are correctly formatted and syntax highlight-ed.
 
 And remember: **Show Us The Code**!
 
