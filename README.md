@@ -4,8 +4,8 @@ Your goal is to create an exceedingly brief presentation of a 3rd party library 
 
 You should aim to answer the following questions:
 
-- What problem does the gem solve?
-- How do you use it in a rails app?
+- What problem does the library/package/gem solve?
+- How do you use it in a web app?
 
 
 ## Pick a topic
